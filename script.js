@@ -66,6 +66,8 @@ function initReveal() {
     '.location-card',
     '.trust-grid > div',
     '.locations-note',
+    '.showcase-copy',
+    '.showcase-grid > *',
     '.contact-band .container > *',
     '.carousel',
     '.catalog-cta',
